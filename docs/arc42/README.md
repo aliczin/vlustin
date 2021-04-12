@@ -2,6 +2,8 @@
 
 ## Ссылки
 
+* https://github.com/Kixiron/rust-langdev
+  * https://github.com/arzg/eldiro/blob/wip/crates/eldiro/src/lexer.rs
 * макросы над LISP - а LISP это дерево с ребрами в виде функций - https://github.com/JunSuzukiJapan/macro-lisp
 * интепретатор над WireShark - есть еще над nmap - https://blog.cloudflare.com/building-fast-interpreters-in-rust/
 * расширения для PostgreSQL - чтобы не писать странного - олдскульщики негодуют - https://github.com/zombodb/pgx
